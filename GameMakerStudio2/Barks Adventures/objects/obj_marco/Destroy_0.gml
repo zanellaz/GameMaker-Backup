@@ -1,0 +1,1 @@
+oGame.morto = 1
